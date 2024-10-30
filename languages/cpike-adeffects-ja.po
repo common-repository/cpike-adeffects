@@ -1,0 +1,190 @@
+# Copyright (C) 2018 WordPress
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: cPike Adeffects Project\n"
+"Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots/\n"
+"POT-Creation-Date: 2018-06-24 18:15+0900\n"
+"PO-Revision-Date: 2018-06-24 18:16+0900\n"
+"Last-Translator: \n"
+"Language-Team: cPike\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/admin_menu.php:8
+msgid "cPike"
+msgstr "cPike"
+
+#: inc/admin_menu.php:9
+msgid "cPike AdEffects"
+msgstr "cPike AdEffects"
+
+#: inc/admin_menu.php:18
+msgid "add conversion page"
+msgstr "目標ページの追加"
+
+#: inc/admin_menu.php:19 views/conversion_pages_view.php:25
+msgid "Goal Pages"
+msgstr "目標ページ"
+
+#: inc/admin_menu.php:28
+msgid "add config page"
+msgstr "設定ページ追加"
+
+#: inc/admin_menu.php:29 views/config_page_view.php:21
+msgid "Configuration"
+msgstr "設定"
+
+#: inc/crud_datas.php:56
+msgid "you have already set the page as CV point"
+msgstr "すでに目標に設定されているページです"
+
+#: inc/crud_datas.php:87
+msgid "config datas have been saved"
+msgstr "設定が保存されました"
+
+#: inc/crud_datas.php:115 inc/crud_datas.php:138
+msgid "deleted"
+msgstr "削除されました"
+
+#: views/admin_menu_view.php:4 views/config_page_view.php:4
+#: views/conversion_pages_view.php:4
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページにアクセスする充分な権限がありません。"
+
+#: views/admin_menu_view.php:52 views/admin_menu_view.php:101
+#: views/admin_menu_view.php:158
+msgid "AD title"
+msgstr "広告タイトル"
+
+#: views/admin_menu_view.php:54 views/admin_menu_view.php:160
+msgid "Link to the landing page"
+msgstr "ランディングページへのリンク"
+
+#: views/admin_menu_view.php:65 views/config_page_view.php:34
+msgid "save"
+msgstr "保存"
+
+#: views/admin_menu_view.php:72
+msgid "List of ADs"
+msgstr "広告一覧"
+
+#: views/admin_menu_view.php:94
+msgid "Apply"
+msgstr "適用"
+
+#: views/admin_menu_view.php:95
+msgid "Change default date range"
+msgstr "期間設定"
+
+#: views/admin_menu_view.php:101
+msgid "Landing Page title"
+msgstr "ランディングページタイトル"
+
+#: views/admin_menu_view.php:101
+msgid "cPike key"
+msgstr "cPikeキー"
+
+#: views/admin_menu_view.php:101
+msgid "Generated URL"
+msgstr "生成URL"
+
+#: views/admin_menu_view.php:101
+msgid "Clicked Through"
+msgstr "クリックスルー"
+
+#: views/admin_menu_view.php:101
+msgid "Reached to Goal"
+msgstr "目標到達"
+
+#: views/admin_menu_view.php:101 views/conversion_pages_view.php:30
+msgid "operation"
+msgstr "操作"
+
+#: views/admin_menu_view.php:140
+msgid "Edit"
+msgstr "編集"
+
+#: views/admin_menu_view.php:141
+msgid "Are you sure you want to delete this record?"
+msgstr "このデータを削除しますか？"
+
+#: views/admin_menu_view.php:141
+msgid "Delete"
+msgstr "削除"
+
+#: views/admin_menu_view.php:153
+msgid "Add AD"
+msgstr "広告追加"
+
+#: views/admin_menu_view.php:170 views/conversion_pages_view.php:75
+msgid "Save"
+msgstr "保存"
+
+#: views/admin_menu_view.php:177
+msgid "Click to see the USAGE of cPike AdEffects"
+msgstr ""
+
+#: views/config_page_view.php:9
+msgid "Today"
+msgstr "本日"
+
+#: views/config_page_view.php:10
+msgid "Yesterday"
+msgstr "昨日"
+
+#: views/config_page_view.php:11
+msgid "Last 7 days"
+msgstr "直近7日間"
+
+#: views/config_page_view.php:12
+msgid "Last 30 days"
+msgstr "直近30日間"
+
+#: views/config_page_view.php:13
+msgid "Last 3 months"
+msgstr "過去3ヶ月"
+
+#: views/config_page_view.php:14
+msgid "Last 6 months"
+msgstr "過去6ヶ月"
+
+#: views/config_page_view.php:15
+msgid "Last 1 year"
+msgstr "過去１カ年"
+
+#: views/config_page_view.php:24
+msgid "Date Range"
+msgstr "日数"
+
+#: views/conversion_pages_view.php:24
+msgid "List of Goal Pages"
+msgstr "目標ページ一覧"
+
+#: views/conversion_pages_view.php:30
+msgid "Goal Page ID"
+msgstr "目標ページID"
+
+#: views/conversion_pages_view.php:30
+msgid "title"
+msgstr "タイトル"
+
+#: views/conversion_pages_view.php:30
+msgid "URL"
+msgstr "URL"
+
+#: views/conversion_pages_view.php:60
+msgid "Add Goal Page"
+msgstr "目標ページ追加"
+
+#: views/conversion_pages_view.php:65
+msgid "Goal Page"
+msgstr "目標ページ"
